@@ -1,3 +1,7 @@
-MangoDisk update packages
+# Atualizações do MangoDisk
 
-This repository contains public signed Windows installers and update metadata for the Yeake0 build of MangoDisk. Application source code is maintained separately in a private repository.
+Este repositório publica os instaladores Windows x64 da versão Yeake0 do MangoDisk.
+
+Em [Releases](https://github.com/Yeake0/MangoDisk-updates/releases), cada versão inclui o instalador, sua assinatura de atualização e um arquivo `MangoDisk-<versão>-source.zip` com o código-fonte correspondente e a licença GPL-3.0. O `latest.json` permite que o botão de atualização do aplicativo encontre a versão mais recente.
+
+O repositório de desenvolvimento permanece privado por enquanto. O código de cada instalador distribuído publicamente pode ser baixado na respectiva release.
